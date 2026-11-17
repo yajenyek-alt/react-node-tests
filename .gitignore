@@ -25,3 +25,7 @@ Thumbs.db
 
 # Vite cache
 .vite/
+
+# Workspace lock files (root lock is the source of truth)
+client/package-lock.json
+server/package-lock.json
